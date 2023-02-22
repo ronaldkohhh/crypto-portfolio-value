@@ -20,15 +20,6 @@ The CSV file has the following columns
 Portfolio means the balance of the token where you need to add deposits and subtract withdrawals. You may obtain the exchange rates from [cryptocompare](https://min-api.cryptocompare.com/documentation) where the API is free. You should write it in Node.js as our main stack is in Javascript/Typescript and we need to assess your proficiency.
 
 
-## Submission
-
-Please take no more than 2 hours to finish. We do not track time, hence you can start and end at your own time. Your answers should comprise of the following
-
-  - Source code that you used for deriving the results
-  - README that explains various design decisions that you took.
-
-Commit your answers in a private Github repository(it's free), please do not fork as other candidates will see your answers. Add Zan(liangzan), Ben(BenPropine) as collaborators then inform us that it is done at zan@propine.com, ben.nguyen@propine.com.
-
 ## Explaination
 
 1) Imports 'csv-parser' for parsing CSV files, 'fs' for working with files and directories, 'node-fetch' for making HTTP requests.
